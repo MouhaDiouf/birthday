@@ -12,7 +12,7 @@ function App() {
         <List people={people} />
         <button
           onClick={() => {
-            console.log('You clicked me!');
+            setPeople([]);
           }}
         >
           Clear all
