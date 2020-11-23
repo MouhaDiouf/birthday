@@ -1,4 +1,4 @@
-# Building an Asteroid app with React & Redux
+# Building a birthday app with React
 ![screenshot](./src/screenshot.jpg)
 
 
