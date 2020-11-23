@@ -1,5 +1,5 @@
 # Building an Asteroid app with React & Redux
-![screenshot](./src/screenshot.png)
+![screenshot](./src/screenshot.jpg)
 
 
 ## Technologies
